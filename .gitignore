@@ -1,0 +1,19 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*~
+
+# Keep evidence, but do not accidentally commit virtual machines or archives
+*.ova
+*.vdi
+*.vmdk
+*.iso
+*.zip
+*.tar
+*.gz
+
+# Local temporary output
+*.swp
+*.tmp
